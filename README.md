@@ -1,10 +1,10 @@
 # AND101 Milestone 1 - **StrikeRide**
 
 Submitted by:
-- **Team Member 1 Bryce Alexander**
-- **Team Member 2 Joshnlyn Thomas**
-- **Team Member 3 Naser Halloum**
-- **Team Member 4 Keshawn Ross**
+- **Team Member 1: Bryce Alexander**
+- **Team Member 2: Joshnlyn Thomas**
+- **Team Member 3: Naser Halloum**
+- **Team Member 4: Keshawn Ross**
 
 Time spent: **10** hours spent in total
 
