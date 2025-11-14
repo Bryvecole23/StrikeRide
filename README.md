@@ -10,7 +10,7 @@ Time spent: **10** hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **short description of your app**
+This document provides an overview, project spec, and wireframes for our team's capstone project: **Strike Ride, a FAMU-exclusive scooter rental application that allows students to locate, unlock, and ride electric scooters around campus.**
 
 If we had to describe this milestone in three (3) emojis, they would be: **🛴📍⚡**
 
