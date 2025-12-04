@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StrikeRide">
 
-        <!-- Launcher Screen -->
+        <!-- Launcher/Login Screen -->
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -22,10 +22,9 @@
             </intent-filter>
         </activity>
 
-        <!-- Add this ↓↓↓↓↓ -->
+        <!-- Ride Summary Screen -->
         <activity android:name=".RideSummaryActivity" />
 
     </application>
 
 </manifest>
-k
